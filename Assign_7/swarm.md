@@ -54,10 +54,11 @@ Yeh LLM khud se decide karta hai ke kaunsa tool use karna hai aur kya yaad rakhn
 
 ## 🧠 Anthropic’s Agentic Patterns 
 Anthropic ne dekha ke effective AI systems zyada tar simple aur modular patterns par kaam karte hain — na ke overly complex frameworks par.
-Unka mashwara:
-➡️ Simple LLM API se shuru karein
-➡️ Zaroorat ho to hi framework use karein
-➡️ Har pattern ko chhoti chhoti blocks mein implement karein
+#### Unka mashwara:
+
+- ➡️ Simple LLM API se shuru karein
+- ➡️ Zaroorat ho to hi framework use karein
+- ➡️ Har pattern ko chhoti chhoti blocks mein implement karein
 
 ### Anthropic Design Patterns
 
